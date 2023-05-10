@@ -1,3 +1,16 @@
-### Hi there , meu nome é  <b>_Thiago_. ###
-  ###  Tenho vontade de aprender programação ,  conhecer  pessoas novas e  aprender  novas liguagens de programação. ###
-**Thiago0g0/Thiago0g0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Olá, meu nome é Thiago 🤙.
+# 
+<br/>
+
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white 
+)](https://www.instagram.com/thiago.dg._/)
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago0g0&show_icons=true&theme=onedark)
+
+### Linguagens
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html1" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
